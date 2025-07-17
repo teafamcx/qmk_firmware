@@ -1,3 +1,10 @@
+# KeychronのAlice配列キーボードで親指変換・無変換をしたい時用のファームウェア
+
+左親指に無変換、右親指に変換。
+あとは個人用カスタマイズなので気分で変えます。
+
+以下、フォーク元
+
 # Quantum Mechanical Keyboard Firmware
 
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
