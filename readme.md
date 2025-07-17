@@ -3,6 +3,8 @@
 左親指に無変換、右親指に変換。
 あとは個人用カスタマイズなので気分で変えます。
 
+QMK MSYSインストールして、ここをcloneしていい感じにqmk compile, qmk flashすればいけるかも。
+
 以下、フォーク元
 
 # Quantum Mechanical Keyboard Firmware
